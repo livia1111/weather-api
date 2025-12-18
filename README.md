@@ -41,7 +41,7 @@ O projeto foi desenvolvido com foco em consumo de API, manipulação do DOM e or
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositor
+   git clone https://github.com/livia1111/weather-api
 
 
 2. Acesse a pasta do projeto:
