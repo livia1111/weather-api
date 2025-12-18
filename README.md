@@ -47,10 +47,12 @@ O projeto foi desenvolvido com foco em consumo de API, manipulação do DOM e or
 2. Acesse a pasta do projeto:
 
 3. cd seu-repositorio
+   
+5. cadastre uma chave no site da api e insira no campo chave dentro do arquivo script.js
 
-4. Abra o arquivo index.html no navegador
+6. Abra o arquivo index.html no navegador
 
-5. Insira o nome da cidade no Input e clique sobre a lupa
+7. Insira o nome da cidade no Input e clique sobre a lupa
 
 
 
