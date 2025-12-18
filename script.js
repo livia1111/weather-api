@@ -16,7 +16,7 @@ function atualizaTempo(dados) {
 
 }
 async function buscarCidade(cidade) {
-    let chave = "a6e6763420792461e20c9884835067b1";
+    let chave = "";
     let dados = await fetch('https://api.openweathermap.org/data/2.5/weather?q=' + cidade + '&appid=' + chave +
         "&lang=pt_br" + "&units=metric")
         .then(resposta => resposta.json())
