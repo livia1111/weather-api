@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+body {
+    background-image: url(https://picsum.photos/900);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    color:white;
+    font-family: "Outfit", sans-serif;
+}
+button{
+    padding: 10px;
+    border-radius: 50px;
+    border:none;
+    outline:none;
+    background-color: #7c7c7c2b;
+    float: right;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #7c7c7c6b;
+}
+.container {
+    background-color: #000000;
+    width: 90%;
+    max-width: 430px;
+    opacity: 0.8;
+    padding:20px;
+    border-radius: 25px;
+    
+    }
+input{
+    border:none;
+    outline: none;
+    padding: 10px;
+    border-radius: 24px;
+    font-size: 20px;
+    background-color: #7c7c7c2b;
+    color: white;
+    width: calc(100% - 100px);
+}
+.lupa {
+    
+    height:20px;
+    border:none;
+    outline:none;
+    border-radius:50px;
+
+}
+h2{
+    margin-bottom: 30px;
+}
+p{
+    margin-bottom: 10px;
+}
+
+.middle-container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    pad: 20px;
+
+}
